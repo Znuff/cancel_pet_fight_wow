@@ -1,0 +1,12 @@
+## Interface: 110200
+
+## Title: CancelPetFight
+
+## Notes: Prompts the player to cancel the pet battle if there are no rare pets found.
+
+## Author: Znuff
+## Version: 1.0.4
+
+## SavedVariables: CPF_CHAT, CPF_POPUP, CPF_MARK
+
+cancel-pet-fight.lua
